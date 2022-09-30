@@ -1,0 +1,50 @@
+﻿@page
+@model Tecnopress.App.SitioWeb.Pages_Usaurio.ListModel
+@{
+}
+
+<h1 class="display-4" align="center">LISTADO DE USUARIOS</h1>
+&nbsp;
+&nbsp;
+<table align="right">
+    <th><a class="btn btn-primary" asp-page="./Create">Registrar Usuario</a></th>
+</table>
+<hr>
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Nombre Usuario</th>
+            <th>Dirección </th>
+            <th>Rol</th>
+            <th>Estado</th>
+            <th>Usuario</th>
+            <th>Password</th>
+            <th>&nbsp;</th>
+            <th>&nbsp;</th>
+        </tr>
+    <tbody>
+            @foreach (var usuario in Model.usuarios)
+            {
+            <tr>
+                <td>@usuario.nombreUsuario</td>
+                <td>@usuario.direccionUsuario</td>
+                <td>@usuario.roles</td>
+                <td>@usuario.estado</td>
+                <td>@usuario.users</td>
+                <td>@usuario.pass</td>
+
+                <td><a class="btn btn-success" asp-page="./Edit" asp-route-id="@usuario.idUsuario">Editar</a></td>
+                <td>
+
+                   
+                        <a class="btn btn-danger" asp-page="./Delete"
+                                    asp-route-id="@usuario.idUsuario">
+                        Eliminar</a>
+ 
+                </td>
+            </tr>
+            }
+    </tbody>
+    </thead>
+
+</table>

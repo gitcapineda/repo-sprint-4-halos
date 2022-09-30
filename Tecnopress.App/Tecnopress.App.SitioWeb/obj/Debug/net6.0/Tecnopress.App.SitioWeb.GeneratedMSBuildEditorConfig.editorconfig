@@ -1,0 +1,140 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Tecnopress.App.SitioWeb
+build_property.RootNamespace = Tecnopress.App.SitioWeb
+build_property.ProjectDir = C:\Tecno\Tecnopress.App\Tecnopress.App.SitioWeb\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Tecno\Tecnopress.App\Tecnopress.App.SitioWeb
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Tecno/Tecnopress.App/Tecnopress.App.SitioWeb/Pages/Categoria/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2F0ZWdvcmlhXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Tecno/Tecnopress.App/Tecnopress.App.SitioWeb/Pages/Categoria/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2F0ZWdvcmlhXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Tecno/Tecnopress.App/Tecnopress.App.SitioWeb/Pages/Categoria/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2F0ZWdvcmlhXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Tecno/Tecnopress.App/Tecnopress.App.SitioWeb/Pages/Categoria/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2F0ZWdvcmlhXExpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Tecno/Tecnopress.App/Tecnopress.App.SitioWeb/Pages/Cliente/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2xpZW50ZVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Tecno/Tecnopress.App/Tecnopress.App.SitioWeb/Pages/Cliente/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2xpZW50ZVxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Tecno/Tecnopress.App/Tecnopress.App.SitioWeb/Pages/Cliente/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2xpZW50ZVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Tecno/Tecnopress.App/Tecnopress.App.SitioWeb/Pages/Cliente/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2xpZW50ZVxMaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Tecno/Tecnopress.App/Tecnopress.App.SitioWeb/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Tecno/Tecnopress.App/Tecnopress.App.SitioWeb/Pages/Fase/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmFzZVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Tecno/Tecnopress.App/Tecnopress.App.SitioWeb/Pages/Fase/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmFzZVxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Tecno/Tecnopress.App/Tecnopress.App.SitioWeb/Pages/Fase/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmFzZVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Tecno/Tecnopress.App/Tecnopress.App.SitioWeb/Pages/Fase/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmFzZVxMaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Tecno/Tecnopress.App/Tecnopress.App.SitioWeb/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Tecno/Tecnopress.App/Tecnopress.App.SitioWeb/Pages/Login/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9naW5cQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Tecno/Tecnopress.App/Tecnopress.App.SitioWeb/Pages/Login/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9naW5cRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Tecno/Tecnopress.App/Tecnopress.App.SitioWeb/Pages/Login/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9naW5cRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Tecno/Tecnopress.App/Tecnopress.App.SitioWeb/Pages/Login/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9naW5cTGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Tecno/Tecnopress.App/Tecnopress.App.SitioWeb/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Tecno/Tecnopress.App/Tecnopress.App.SitioWeb/Pages/Proyecto/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJveWVjdG9cQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Tecno/Tecnopress.App/Tecnopress.App.SitioWeb/Pages/Proyecto/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJveWVjdG9cRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Tecno/Tecnopress.App/Tecnopress.App.SitioWeb/Pages/Proyecto/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJveWVjdG9cRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Tecno/Tecnopress.App/Tecnopress.App.SitioWeb/Pages/Proyecto/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJveWVjdG9cTGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Tecno/Tecnopress.App/Tecnopress.App.SitioWeb/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Tecno/Tecnopress.App/Tecnopress.App.SitioWeb/Pages/Usuario/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXN1YXJpb1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Tecno/Tecnopress.App/Tecnopress.App.SitioWeb/Pages/Usuario/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXN1YXJpb1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Tecno/Tecnopress.App/Tecnopress.App.SitioWeb/Pages/Usuario/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXN1YXJpb1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Tecno/Tecnopress.App/Tecnopress.App.SitioWeb/Pages/Usuario/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXN1YXJpb1xMaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Tecno/Tecnopress.App/Tecnopress.App.SitioWeb/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Tecno/Tecnopress.App/Tecnopress.App.SitioWeb/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Tecno/Tecnopress.App/Tecnopress.App.SitioWeb/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-edmk0gabwy

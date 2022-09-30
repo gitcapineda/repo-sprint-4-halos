@@ -1,0 +1,16 @@
+﻿@page
+@model Tecnopress.App.SitioWeb.Pages_Categoria.DeleteModel
+@{
+}
+<h1 class="display-4" align="center">Eliminar Categoria</h1>
+&nbsp;
+&nbsp;
+<form method='post'>
+    <!-- Asignar Id del cliente a borrar -->
+    
+    <input type="hidden" asp-for="categoria.idCategoria"/>
+    <h3>¿ Está seguro de borrar el cliente @Model.categoria.nombreCategoria ?</h3>
+
+    <input type="submit" value="Borrar" class="btn btn-danger" /> 
+    <a asp-page="/Categoria/List">Devuelta a la lista</a>
+</form>

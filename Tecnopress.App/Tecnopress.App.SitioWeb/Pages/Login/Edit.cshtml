@@ -1,0 +1,42 @@
+﻿@page
+@model Tecnopress.App.SitioWeb.Pages_Login.EditModel
+@{
+}
+<h1 class="display-4" align="center">Editar Ingres</h1>
+&nbsp;
+&nbsp;
+<form method='post'>
+ <!-- Atributo pais COMBOBOX PARA SELECCIONAR EL PAÍS -->
+    <!-- Atributo pais COMBOBOX PARA SELECCIONAR EL PAÍS -->
+    <div class="form-group">
+        <label asp-for="login.usuario.users" class="control-label"></label>
+        <select asp-for="login.usuarioId" class="form-control">
+            @foreach (var usuario in Model.usuarios)
+            {
+                <option value="@usuario.idUsuario">@usuario.users</option>
+            }
+        </select>
+        <span asp-validation-for="login.usuario.users" class="text-danger"></span>
+    </div>
+
+
+<div class="form-group">
+        <label asp-for="login.direccionIp" class="control-label"></label>
+        <input asp-for="login.direccionIp" class=" form-control"/>
+        <span asp-validation-for="login.direccionIp" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="login.fechaIngreso" class="control-label"></label>
+        <input asp-for="login.fechaIngreso" class=" form-control"/>
+        <span asp-validation-for="login.fechaIngreso" class="text-danger"></span>
+    </div>
+    <!-- Asignar Id del cliente a editar -->
+    <input type="hidden" asp-for="login.idLogin" />
+&nbsp;
+&nbsp;
+
+    <!-- boton crear -->
+    <div class="form-group">
+        <input type="submit" value="Editar" class="btn btn-primary"/>
+    </div>
+</form> 

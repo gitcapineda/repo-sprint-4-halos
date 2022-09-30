@@ -1,0 +1,22 @@
+﻿@page
+@model Tecnopress.App.SitioWeb.Pages_Categoria.CreateModel
+@{
+}
+<h1 class="display-4" align="center">Registrar Categoría</h1>
+&nbsp;
+&nbsp;
+<!-- formulario de creacion de cliente -->
+<form method="post">
+    <div asp-validation-summary="All" class="text-danger"></div>
+    <!-- atributo nombre -->
+    <div class="form-group">
+        <label asp-for="categoria.nombreCategoria" class="control-label"></label>
+        <input asp-for="categoria.nombreCategoria" class=" form-control"/>
+        <span asp-validation-for="categoria.nombreCategoria" class="text-danger"></span>
+    </div>
+
+    <!-- boton crear -->
+    <div class="form-group">
+        <input type="submit" value="Crear" class="btn btn-primary"/>
+    </div>
+</form> 

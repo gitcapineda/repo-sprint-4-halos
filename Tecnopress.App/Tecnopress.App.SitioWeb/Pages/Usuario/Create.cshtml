@@ -1,0 +1,49 @@
+﻿@page
+@model Tecnopress.App.SitioWeb.Pages_Usaurio.CreateModel
+@using Tecnopress.App.Dominio;
+@{
+}
+<h1 class="display-4" align="center">Registrar Usuario</h1>
+&nbsp;
+&nbsp;
+<!-- formulario de creacion de cliente -->
+<form method="post">
+    <div asp-validation-summary="All" class="text-danger"></div>
+    <!-- atributo nombre -->
+    <div class="form-group">
+        <label asp-for="usuario.nombreUsuario" class="control-label"></label>
+        <input asp-for="usuario.nombreUsuario" class=" form-control"/>
+        <span asp-validation-for="usuario.nombreUsuario" class="text- danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="usuario.direccionUsuario" class="control-label"></label>
+        <input asp-for="usuario.direccionUsuario" class=" form-control" placeholder="192.168.1.1" />
+        <span asp-validation-for="usuario.nombreUsuario" class="text-danger"></span>
+    </div>
+   <div class="form-group">
+        <label asp-for="usuario.roles" class="control-label" asp-items="Html.GetEnumSelectList<Roles>()"></label>
+        <select asp-for="usuario.roles" class=" form-control" asp-items="Html.GetEnumSelectList<Roles>()"></select>
+        <span asp-validation-for="usuario.roles" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="usuario.estado" class="control-label" asp-items="Html.GetEnumSelectList<Estado>()"></label>
+        <select asp-for="usuario.estado" class=" form-control" asp-items="Html.GetEnumSelectList<Estado>()"></select>
+        <span asp-validation-for="usuario.estado" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="usuario.users" class="control-label"></label>
+        <input asp-for="usuario.users" class=" form-control" />
+        <span asp-validation-for="usuario.users" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="usuario.pass" class="control-label"></label>
+        <input asp-for="usuario.pass" class=" form-control" placeholder="****" type="password"/>
+        <span asp-validation-for="usuario.pass" class="text-danger"></span>
+    </div>
+
+    <!-- boton crear -->
+    <div class="form-group">
+        <input type="submit" value="Crear" class="btn btn-primary"/>
+    </div>
+</form> 

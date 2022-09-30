@@ -1,0 +1,41 @@
+﻿@page
+@model Tecnopress.App.SitioWeb.Pages_Categoria.ListModel
+@{
+}
+
+<h1 class="display-4" align="center">LISTADO DE CATEGORIAS</h1>
+&nbsp;
+&nbsp;
+<table align="right">
+    <th><a class="btn btn-primary" asp-page="./Create">Crear CATEGORIA</a></th>
+</table>
+<hr>
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Nombre de la Categoría</th>
+
+            <th>&nbsp;</th>
+            <th>&nbsp;</th>
+        </tr>
+    <tbody>
+            @foreach (var categoria in Model.categorias)
+            {
+            <tr>
+                <td>@categoria.nombreCategoria</td>
+
+               <td><a class="btn btn-success" asp-page="./Edit" asp-route-id="@categoria.idCategoria">Editar</a></td>
+                <td>
+
+                   
+                        <a class="btn btn-danger" asp-page="./Delete"
+                                    asp-route-id="@categoria.idCategoria">
+                        Eliminar</a>
+ 
+                </td>
+            </tr>
+            }
+    </tbody>
+    </thead>
+
+</table>

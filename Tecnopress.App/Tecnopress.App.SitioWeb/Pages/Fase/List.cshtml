@@ -1,0 +1,40 @@
+﻿@page
+@model Tecnopress.App.SitioWeb.Pages_Fase.ListModel
+@{
+}
+<h1 class="display-4" align="center">LISTADO DE FASES DE PROYECTOS</h1>
+&nbsp;
+&nbsp;
+<table align="right">
+    <th><a class="btn btn-primary" asp-page="./Create">Crear Fase</a></th>
+</table>
+<hr>
+<table class="table table-striped">
+    <thead>
+        <tr>
+            
+            <th>Proyecto</th>
+            <th>Nombre Fase</th>
+            <th>Fecha de Modificación</th>
+            <th>Descripcion</th>
+            <th>&nbsp;</th>
+            <th>&nbsp;</th>
+        </tr>
+    <tbody>
+            @foreach (var fase in Model.fases)
+            {
+            <tr>
+                <td>@fase.proyecto.nombreProyecto</td>
+                <td>@fase.nombreFase</td>
+                <td>@fase.fechaCambio</td>
+                <td>@fase.descripcion</td>
+               
+                <td><a class="btn btn-success" asp-page="./Edit" asp-route-id="@fase.idFase">Editar</a></td>
+                <td><a class="btn btn-danger" asp-page="./Delete"asp-route-id="@fase.idFase">Eliminar</a></td>
+            </tr>
+            }
+    </tbody>
+    </thead>
+
+</table>
+

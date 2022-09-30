@@ -1,0 +1,54 @@
+﻿@page
+@model Tecnopress.App.SitioWeb.Pages_Proyecto.ListModel
+@{
+}
+<h1 class="display-4" align="center">LISTADO DE PROYECTOS</h1>
+&nbsp;
+&nbsp;
+<table align="right">
+    <th><a class="btn btn-primary" asp-page="./Create">Crear Proyecto</a></th>
+</table>
+<hr>
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Cliente</th>
+            <th>Categoria</th>
+            <th>Nombre Proyecto</th>
+            <th>Codigo Proyecto</th>
+            <th>Tiempo Ejecución</th>
+            <th>Fecha Ejecución</th>
+            <th>Costo</th>
+            <th>Descripcion Proyecto</th>
+            <th>Visitas</th>
+            <th>&nbsp;</th>
+            <th>&nbsp;</th>
+        </tr>
+    <tbody>
+            @foreach (var proyecto in Model.proyectos)
+            {
+            <tr>
+                <td>@proyecto.cliente.nombre</td>
+                <td>@proyecto.categoria.</td>
+                <td>@proyecto.nombreProyecto</td>
+                <td>@proyecto.codigoProyecto</td>
+                <td>@proyecto.TiempoEjecucion</td>
+                <td>@proyecto.FechaEjecucion</td>
+                <td>@proyecto.Costo</td>
+                <td>@proyecto.DescripcionProyecto</td>
+                <td>@proyecto.Visitas</td>
+                <td><a class="btn btn-success" asp-page="./Edit" asp-route-id="@proyecto.IdProyecto">Editar</a></td>
+                <td>
+
+                   
+                        <a class="btn btn-danger" asp-page="./Delete"
+                                    asp-route-id="@proyecto.IdProyecto">
+                        Eliminar</a>
+ 
+                </td>
+            </tr>
+            }
+    </tbody>
+    </thead>
+
+</table>

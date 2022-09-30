@@ -1,0 +1,46 @@
+﻿@page
+@model Tecnopress.App.SitioWeb.Pages_Fase.CreateModel
+@{
+}
+<h1 class="display-4" align="center">Registrar Fase</h1>
+&nbsp;
+&nbsp;
+<!-- formulario de creacion de fase -->
+<form method="post">
+    <div asp-validation-summary="All" class="text-danger"></div>
+    <!-- atributo proyecto -->
+    <div class="form-group">
+        <label asp-for="fase.proyecto" class="control-label"></label>
+        <input asp-for="fase.proyecto" class=" form-control"/>
+        <span asp-validation-for="fase.proyecto" class="text-danger"></span>
+    </div>
+<!-- atributo llave foranea proyectoId -->
+    <div class="form-group">
+        <label asp-for="fase.proyectoId" class="control-label"></label>
+        <input asp-for="fase.proyectoId" class=" form-control" />
+        <span asp-validation-for="fase.proyectoId" class="text-danger"></span>
+    </div>
+    
+    <!-- atributo nombrefase -->
+    <div class="form-group">
+        <label asp-for="fase.nombreFase" class="control-label"></label>
+        <input asp-for="fase.nombreFase" class=" form-control"/>
+        <span asp-validation-for="fase.nombreFase" class="text-danger"></span>
+    </div>
+   <!-- atributo fechacambio -->
+   <div class="form-group">
+        <label asp-for="fase.fechaCambio" class="control-label"></label>
+        <input asp-for="fase.fechaCambio" class=" form-control"/>
+        <span asp-validation-for="fase.fechaCambio" class="text-danger"></span>
+    </div>
+    <!-- atributo descripcion -->
+    <div class="form-group">
+        <label asp-for="fase.descripcion" class="control-label"></label>
+        <input asp-for="fase.descripcion" class=" form-control" placeholder="email@yahoo.com"/>
+        <span asp-validation-for="fase.descripcion" class="text-danger"></span>
+
+    <!-- boton crear -->
+    <div class="form-group">
+        <input type="submit" value="Crear" class="btn btn-primary"/>
+    </div>
+</form> 

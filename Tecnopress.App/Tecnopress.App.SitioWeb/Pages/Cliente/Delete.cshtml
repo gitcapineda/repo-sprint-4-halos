@@ -1,0 +1,16 @@
+﻿@page
+@model Tecnopress.App.SitioWeb.Pages_Cliente.DeleteModel
+@{
+}
+<h1 class="display-4" align="center">Eliminar Cliente</h1>
+&nbsp;
+&nbsp;
+<form method='post'>
+    <!-- Asignar Id del cliente a borrar -->
+    
+    <input type="hidden" asp-for="cliente.idCliente"/>
+    <h3>¿ Está seguro de borrar el cliente @Model.cliente.nombre ?</h3>
+
+    <input type="submit" value="Borrar" class="btn btn-danger" /> 
+    <a asp-page="/Cliente/List">Devuelta a la lista</a>
+</form>

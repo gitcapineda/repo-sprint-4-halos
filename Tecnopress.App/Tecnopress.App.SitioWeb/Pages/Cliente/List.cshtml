@@ -1,0 +1,50 @@
+﻿@page
+@model Tecnopress.App.SitioWeb.Pages_Cliente.ListModel
+@{
+}
+
+<h1 class="display-4" align="center">LISTADO DE CLIENTES</h1>
+&nbsp;
+&nbsp;
+<table align="right">
+    <th><a class="btn btn-primary" asp-page="./Create">Crear Cliente</a></th>
+</table>
+<hr>
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>N° Identificación</th>
+            <th>Nombre</th>
+            <th>Telefono</th>
+            <th>Correo</th>
+            <th>Dirección</th>
+            <th>Nacionalidad</th>
+            <th>&nbsp;</th>
+            <th>&nbsp;</th>
+        </tr>
+    <tbody>
+            @foreach (var cliente in Model.clientes)
+            {
+            <tr>
+                <td>@cliente.nit</td>
+                <td>@cliente.nombre</td>
+                <td>@cliente.telefono</td>
+                <td>@cliente.email</td>
+                <td>@cliente.direccion</td>
+                <td>@cliente.nacionalidad</td>
+                <td><a class="btn btn-success" asp-page="./Edit" asp-route-id="@cliente.idCliente">Editar</a></td>
+                <td>
+
+                   
+                        <a class="btn btn-danger" asp-page="./Delete"
+                                    asp-route-id="@cliente.idCliente">
+                        Eliminar</a>
+ 
+                </td>
+            </tr>
+            }
+    </tbody>
+    </thead>
+
+</table>
+

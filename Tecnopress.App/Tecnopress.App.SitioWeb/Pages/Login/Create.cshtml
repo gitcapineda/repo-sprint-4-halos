@@ -1,0 +1,38 @@
+﻿@page
+@model Tecnopress.App.SitioWeb.Pages_Login.CreateModel
+@{
+}
+<h1 class="display-4" align="center">Registrar Ingreso</h1>
+&nbsp;
+&nbsp;
+<form method='post'>
+ <!-- atributo llave foranea proyectoId-->
+    <div class="form-group">
+        <label asp-for="login.usuarioId" class="control-label"></label>
+        <input asp-for="login.usuarioId" class=" form-control" />
+        <span asp-validation-for="login.usuarioId" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="login.usuario" class="control-label"></label>
+        <input asp-for="login.usuario" class=" form-control" />
+        <span asp-validation-for="login.usuario" class="text-danger"></span>
+    </div>
+
+<div class="form-group">
+        <label asp-for="login.direccionIp" class="control-label"></label>
+        <input asp-for="login.direccionIp" class=" form-control"/>
+        <span asp-validation-for="login.direccionIp" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="login.fechaIngreso" class="control-label"></label>
+        <input asp-for="login.fechaIngreso" class=" form-control"/>
+        <span asp-validation-for="login.fechaIngreso" class="text-danger"></span>
+    </div>
+    
+
+    <!-- boton crear -->
+    <div class="form-group">
+        <input type="submit" value="Crear" class="btn btn-primary"/>
+    </div>
+</form> 

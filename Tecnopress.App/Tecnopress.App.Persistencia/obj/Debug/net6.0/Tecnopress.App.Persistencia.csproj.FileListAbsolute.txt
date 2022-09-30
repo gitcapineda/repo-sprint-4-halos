@@ -1,0 +1,51 @@
+C:\Proyecto_Ciclo_III\Tecnopress.App\Tecnopress.App.Persistencia\obj\Debug\net6.0\Tecnopress.App.Persistencia.csproj.AssemblyReference.cache
+C:\Proyecto_Ciclo_III\Tecnopress.App\Tecnopress.App.Persistencia\obj\Debug\net6.0\Tecnopress.App.Persistencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyecto_Ciclo_III\Tecnopress.App\Tecnopress.App.Persistencia\obj\Debug\net6.0\Tecnopress.App.Persistencia.AssemblyInfoInputs.cache
+C:\Proyecto_Ciclo_III\Tecnopress.App\Tecnopress.App.Persistencia\obj\Debug\net6.0\Tecnopress.App.Persistencia.AssemblyInfo.cs
+C:\Proyecto_Ciclo_III\Tecnopress.App\Tecnopress.App.Persistencia\obj\Debug\net6.0\Tecnopress.App.Persistencia.csproj.CoreCompileInputs.cache
+C:\Proyecto_Ciclo_III\Tecnopress.App\Tecnopress.App.Persistencia\bin\Debug\net6.0\Tecnopress.App.Persistencia.deps.json
+C:\Proyecto_Ciclo_III\Tecnopress.App\Tecnopress.App.Persistencia\bin\Debug\net6.0\Tecnopress.App.Persistencia.runtimeconfig.json
+C:\Proyecto_Ciclo_III\Tecnopress.App\Tecnopress.App.Persistencia\bin\Debug\net6.0\Tecnopress.App.Persistencia.dll
+C:\Proyecto_Ciclo_III\Tecnopress.App\Tecnopress.App.Persistencia\bin\Debug\net6.0\Tecnopress.App.Persistencia.pdb
+C:\Proyecto_Ciclo_III\Tecnopress.App\Tecnopress.App.Persistencia\bin\Debug\net6.0\Tecnopress.App.Dominio.dll
+C:\Proyecto_Ciclo_III\Tecnopress.App\Tecnopress.App.Persistencia\bin\Debug\net6.0\Tecnopress.App.Dominio.pdb
+C:\Proyecto_Ciclo_III\Tecnopress.App\Tecnopress.App.Persistencia\obj\Debug\net6.0\Tecnopress.App.Persistencia.csproj.CopyComplete
+C:\Proyecto_Ciclo_III\Tecnopress.App\Tecnopress.App.Persistencia\obj\Debug\net6.0\Tecnopress.App.Persistencia.dll
+C:\Proyecto_Ciclo_III\Tecnopress.App\Tecnopress.App.Persistencia\obj\Debug\net6.0\refint\Tecnopress.App.Persistencia.dll
+C:\Proyecto_Ciclo_III\Tecnopress.App\Tecnopress.App.Persistencia\obj\Debug\net6.0\Tecnopress.App.Persistencia.pdb
+C:\Proyecto_Ciclo_III\Tecnopress.App\Tecnopress.App.Persistencia\obj\Debug\net6.0\Tecnopress.App.Persistencia.genruntimeconfig.cache
+C:\Proyecto_Ciclo_III\Tecnopress.App\Tecnopress.App.Persistencia\obj\Debug\net6.0\ref\Tecnopress.App.Persistencia.dll
+C:\Proyecto_Ciclo_III - copia (2)\Tecnopress.App\Tecnopress.App.Persistencia\bin\Debug\net6.0\Tecnopress.App.Persistencia.deps.json
+C:\Proyecto_Ciclo_III - copia (2)\Tecnopress.App\Tecnopress.App.Persistencia\bin\Debug\net6.0\Tecnopress.App.Persistencia.runtimeconfig.json
+C:\Proyecto_Ciclo_III - copia (2)\Tecnopress.App\Tecnopress.App.Persistencia\bin\Debug\net6.0\Tecnopress.App.Persistencia.dll
+C:\Proyecto_Ciclo_III - copia (2)\Tecnopress.App\Tecnopress.App.Persistencia\bin\Debug\net6.0\Tecnopress.App.Persistencia.pdb
+C:\Proyecto_Ciclo_III - copia (2)\Tecnopress.App\Tecnopress.App.Persistencia\bin\Debug\net6.0\Tecnopress.App.Dominio.dll
+C:\Proyecto_Ciclo_III - copia (2)\Tecnopress.App\Tecnopress.App.Persistencia\bin\Debug\net6.0\Tecnopress.App.Dominio.pdb
+C:\Proyecto_Ciclo_III - copia (2)\Tecnopress.App\Tecnopress.App.Persistencia\obj\Debug\net6.0\Tecnopress.App.Persistencia.csproj.AssemblyReference.cache
+C:\Proyecto_Ciclo_III - copia (2)\Tecnopress.App\Tecnopress.App.Persistencia\obj\Debug\net6.0\Tecnopress.App.Persistencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyecto_Ciclo_III - copia (2)\Tecnopress.App\Tecnopress.App.Persistencia\obj\Debug\net6.0\Tecnopress.App.Persistencia.AssemblyInfoInputs.cache
+C:\Proyecto_Ciclo_III - copia (2)\Tecnopress.App\Tecnopress.App.Persistencia\obj\Debug\net6.0\Tecnopress.App.Persistencia.AssemblyInfo.cs
+C:\Proyecto_Ciclo_III - copia (2)\Tecnopress.App\Tecnopress.App.Persistencia\obj\Debug\net6.0\Tecnopress.App.Persistencia.csproj.CoreCompileInputs.cache
+C:\Proyecto_Ciclo_III - copia (2)\Tecnopress.App\Tecnopress.App.Persistencia\obj\Debug\net6.0\Tecnopress.App.Persistencia.csproj.CopyComplete
+C:\Proyecto_Ciclo_III - copia (2)\Tecnopress.App\Tecnopress.App.Persistencia\obj\Debug\net6.0\Tecnopress.App.Persistencia.dll
+C:\Proyecto_Ciclo_III - copia (2)\Tecnopress.App\Tecnopress.App.Persistencia\obj\Debug\net6.0\refint\Tecnopress.App.Persistencia.dll
+C:\Proyecto_Ciclo_III - copia (2)\Tecnopress.App\Tecnopress.App.Persistencia\obj\Debug\net6.0\Tecnopress.App.Persistencia.pdb
+C:\Proyecto_Ciclo_III - copia (2)\Tecnopress.App\Tecnopress.App.Persistencia\obj\Debug\net6.0\Tecnopress.App.Persistencia.genruntimeconfig.cache
+C:\Proyecto_Ciclo_III - copia (2)\Tecnopress.App\Tecnopress.App.Persistencia\obj\Debug\net6.0\ref\Tecnopress.App.Persistencia.dll
+C:\Tecno\Tecnopress.App\Tecnopress.App.Persistencia\bin\Debug\net6.0\Tecnopress.App.Persistencia.deps.json
+C:\Tecno\Tecnopress.App\Tecnopress.App.Persistencia\bin\Debug\net6.0\Tecnopress.App.Persistencia.runtimeconfig.json
+C:\Tecno\Tecnopress.App\Tecnopress.App.Persistencia\bin\Debug\net6.0\Tecnopress.App.Persistencia.dll
+C:\Tecno\Tecnopress.App\Tecnopress.App.Persistencia\bin\Debug\net6.0\Tecnopress.App.Persistencia.pdb
+C:\Tecno\Tecnopress.App\Tecnopress.App.Persistencia\bin\Debug\net6.0\Tecnopress.App.Dominio.dll
+C:\Tecno\Tecnopress.App\Tecnopress.App.Persistencia\bin\Debug\net6.0\Tecnopress.App.Dominio.pdb
+C:\Tecno\Tecnopress.App\Tecnopress.App.Persistencia\obj\Debug\net6.0\Tecnopress.App.Persistencia.csproj.AssemblyReference.cache
+C:\Tecno\Tecnopress.App\Tecnopress.App.Persistencia\obj\Debug\net6.0\Tecnopress.App.Persistencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Tecno\Tecnopress.App\Tecnopress.App.Persistencia\obj\Debug\net6.0\Tecnopress.App.Persistencia.AssemblyInfoInputs.cache
+C:\Tecno\Tecnopress.App\Tecnopress.App.Persistencia\obj\Debug\net6.0\Tecnopress.App.Persistencia.AssemblyInfo.cs
+C:\Tecno\Tecnopress.App\Tecnopress.App.Persistencia\obj\Debug\net6.0\Tecnopress.App.Persistencia.csproj.CoreCompileInputs.cache
+C:\Tecno\Tecnopress.App\Tecnopress.App.Persistencia\obj\Debug\net6.0\Tecnopress.App.Persistencia.csproj.CopyComplete
+C:\Tecno\Tecnopress.App\Tecnopress.App.Persistencia\obj\Debug\net6.0\Tecnopress.App.Persistencia.dll
+C:\Tecno\Tecnopress.App\Tecnopress.App.Persistencia\obj\Debug\net6.0\refint\Tecnopress.App.Persistencia.dll
+C:\Tecno\Tecnopress.App\Tecnopress.App.Persistencia\obj\Debug\net6.0\Tecnopress.App.Persistencia.pdb
+C:\Tecno\Tecnopress.App\Tecnopress.App.Persistencia\obj\Debug\net6.0\Tecnopress.App.Persistencia.genruntimeconfig.cache
+C:\Tecno\Tecnopress.App\Tecnopress.App.Persistencia\obj\Debug\net6.0\ref\Tecnopress.App.Persistencia.dll

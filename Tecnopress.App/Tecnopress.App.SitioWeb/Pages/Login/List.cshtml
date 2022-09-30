@@ -1,0 +1,48 @@
+﻿@page
+@model Tecnopress.App.SitioWeb.Pages_Login.ListModel
+@{
+}
+<h1 class="display-4" align="center">LISTADO DE LOGIN</h1>
+&nbsp;
+&nbsp;
+<table align="right">
+    <th><a class="btn btn-primary" asp-page="./Create">Crear Login</a></th>
+</table>
+<hr>
+<table class="table table-striped">
+    <thead>
+        <tr>
+            
+            <th>Fecha Ingreso</th>
+            <th>Dirección IP</th>
+            <th>Usuario</th>
+          
+            <th>&nbsp;</th>
+            <th>&nbsp;</th>
+        </tr>
+    <tbody>
+            @foreach (var login in Model.logins)
+            {
+            <tr>
+                <td>@login.fechaIngreso</td>
+                <td>@login.direccionIp</td>
+                <td>@login.usuario.users</td>
+                
+        
+               
+               
+                <td><a class="btn btn-success" asp-page="./Edit" asp-route-id="@login.idLogin">Editar</a></td>
+                <td>
+
+                   
+                        <a class="btn btn-danger" asp-page="./Delete"
+                                    asp-route-id="@login.idLogin">
+                        Eliminar</a>
+ 
+                </td>
+            </tr>
+            }
+    </tbody>
+    </thead>
+
+</table>

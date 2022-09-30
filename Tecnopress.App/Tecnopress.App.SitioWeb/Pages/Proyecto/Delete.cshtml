@@ -1,0 +1,15 @@
+﻿@page
+@model Tecnopress.App.SitioWeb.Pages_Proyecto.DeleteModel
+@{
+}
+<h1 class="display-4" align="center">Eliminar Proyecto</h1>
+&nbsp;
+&nbsp;
+<form method='post'>
+    <!-- Asignar Id del cliente a borrar -->
+    <input type="hidden" asp-for="proyecto.IdProyecto" />
+    <h3>¿ Está seguro de borrar el cliente @Model.proyecto.nombreProyecto ?</h3>
+
+    <input type="submit" value="Borrar" class="btn btn-danger" /> 
+    <a asp-page="/Proyecto/List">Devuelta a la lista</a>
+</form>

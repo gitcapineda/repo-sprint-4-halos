@@ -1,0 +1,16 @@
+﻿@page
+@model Tecnopress.App.SitioWeb.Pages_Fase.DeleteModel
+@{
+}
+<h1 class="display-4" align="center">Eliminar Fase</h1>
+&nbsp;
+&nbsp;
+<form method='post'>
+    <!-- Asignar Id de l fase a borrar -->
+    
+    <input type="hidden" asp-for="fase.idFase"/>
+    <h3>¿ Está seguro de borrar la fase @Model.fase.nombreFase ?</h3>
+
+    <input type="submit" value="Borrar" class="btn btn-danger" /> 
+    <a asp-page="/Fase/List">Devuelta a la lista</a>
+</form>

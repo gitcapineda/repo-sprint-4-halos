@@ -1,0 +1,36 @@
+C:\Proyecto_Ciclo_III\Tecnopress.App\Tecnopress.App.Dominio\bin\Debug\net6.0\Tecnopress.App.Dominio.deps.json
+C:\Proyecto_Ciclo_III\Tecnopress.App\Tecnopress.App.Dominio\bin\Debug\net6.0\Tecnopress.App.Dominio.dll
+C:\Proyecto_Ciclo_III\Tecnopress.App\Tecnopress.App.Dominio\bin\Debug\net6.0\Tecnopress.App.Dominio.pdb
+C:\Proyecto_Ciclo_III\Tecnopress.App\Tecnopress.App.Dominio\obj\Debug\net6.0\Tecnopress.App.Dominio.csproj.AssemblyReference.cache
+C:\Proyecto_Ciclo_III\Tecnopress.App\Tecnopress.App.Dominio\obj\Debug\net6.0\Tecnopress.App.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyecto_Ciclo_III\Tecnopress.App\Tecnopress.App.Dominio\obj\Debug\net6.0\Tecnopress.App.Dominio.AssemblyInfoInputs.cache
+C:\Proyecto_Ciclo_III\Tecnopress.App\Tecnopress.App.Dominio\obj\Debug\net6.0\Tecnopress.App.Dominio.AssemblyInfo.cs
+C:\Proyecto_Ciclo_III\Tecnopress.App\Tecnopress.App.Dominio\obj\Debug\net6.0\Tecnopress.App.Dominio.csproj.CoreCompileInputs.cache
+C:\Proyecto_Ciclo_III\Tecnopress.App\Tecnopress.App.Dominio\obj\Debug\net6.0\Tecnopress.App.Dominio.dll
+C:\Proyecto_Ciclo_III\Tecnopress.App\Tecnopress.App.Dominio\obj\Debug\net6.0\refint\Tecnopress.App.Dominio.dll
+C:\Proyecto_Ciclo_III\Tecnopress.App\Tecnopress.App.Dominio\obj\Debug\net6.0\Tecnopress.App.Dominio.pdb
+C:\Proyecto_Ciclo_III\Tecnopress.App\Tecnopress.App.Dominio\obj\Debug\net6.0\ref\Tecnopress.App.Dominio.dll
+C:\Proyecto_Ciclo_III - copia (2)\Tecnopress.App\Tecnopress.App.Dominio\bin\Debug\net6.0\Tecnopress.App.Dominio.deps.json
+C:\Proyecto_Ciclo_III - copia (2)\Tecnopress.App\Tecnopress.App.Dominio\bin\Debug\net6.0\Tecnopress.App.Dominio.dll
+C:\Proyecto_Ciclo_III - copia (2)\Tecnopress.App\Tecnopress.App.Dominio\bin\Debug\net6.0\Tecnopress.App.Dominio.pdb
+C:\Proyecto_Ciclo_III - copia (2)\Tecnopress.App\Tecnopress.App.Dominio\obj\Debug\net6.0\Tecnopress.App.Dominio.csproj.AssemblyReference.cache
+C:\Proyecto_Ciclo_III - copia (2)\Tecnopress.App\Tecnopress.App.Dominio\obj\Debug\net6.0\Tecnopress.App.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyecto_Ciclo_III - copia (2)\Tecnopress.App\Tecnopress.App.Dominio\obj\Debug\net6.0\Tecnopress.App.Dominio.AssemblyInfoInputs.cache
+C:\Proyecto_Ciclo_III - copia (2)\Tecnopress.App\Tecnopress.App.Dominio\obj\Debug\net6.0\Tecnopress.App.Dominio.AssemblyInfo.cs
+C:\Proyecto_Ciclo_III - copia (2)\Tecnopress.App\Tecnopress.App.Dominio\obj\Debug\net6.0\Tecnopress.App.Dominio.csproj.CoreCompileInputs.cache
+C:\Proyecto_Ciclo_III - copia (2)\Tecnopress.App\Tecnopress.App.Dominio\obj\Debug\net6.0\Tecnopress.App.Dominio.dll
+C:\Proyecto_Ciclo_III - copia (2)\Tecnopress.App\Tecnopress.App.Dominio\obj\Debug\net6.0\refint\Tecnopress.App.Dominio.dll
+C:\Proyecto_Ciclo_III - copia (2)\Tecnopress.App\Tecnopress.App.Dominio\obj\Debug\net6.0\Tecnopress.App.Dominio.pdb
+C:\Proyecto_Ciclo_III - copia (2)\Tecnopress.App\Tecnopress.App.Dominio\obj\Debug\net6.0\ref\Tecnopress.App.Dominio.dll
+C:\Tecno\Tecnopress.App\Tecnopress.App.Dominio\bin\Debug\net6.0\Tecnopress.App.Dominio.deps.json
+C:\Tecno\Tecnopress.App\Tecnopress.App.Dominio\bin\Debug\net6.0\Tecnopress.App.Dominio.dll
+C:\Tecno\Tecnopress.App\Tecnopress.App.Dominio\bin\Debug\net6.0\Tecnopress.App.Dominio.pdb
+C:\Tecno\Tecnopress.App\Tecnopress.App.Dominio\obj\Debug\net6.0\Tecnopress.App.Dominio.csproj.AssemblyReference.cache
+C:\Tecno\Tecnopress.App\Tecnopress.App.Dominio\obj\Debug\net6.0\Tecnopress.App.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Tecno\Tecnopress.App\Tecnopress.App.Dominio\obj\Debug\net6.0\Tecnopress.App.Dominio.AssemblyInfoInputs.cache
+C:\Tecno\Tecnopress.App\Tecnopress.App.Dominio\obj\Debug\net6.0\Tecnopress.App.Dominio.AssemblyInfo.cs
+C:\Tecno\Tecnopress.App\Tecnopress.App.Dominio\obj\Debug\net6.0\Tecnopress.App.Dominio.csproj.CoreCompileInputs.cache
+C:\Tecno\Tecnopress.App\Tecnopress.App.Dominio\obj\Debug\net6.0\Tecnopress.App.Dominio.dll
+C:\Tecno\Tecnopress.App\Tecnopress.App.Dominio\obj\Debug\net6.0\refint\Tecnopress.App.Dominio.dll
+C:\Tecno\Tecnopress.App\Tecnopress.App.Dominio\obj\Debug\net6.0\Tecnopress.App.Dominio.pdb
+C:\Tecno\Tecnopress.App\Tecnopress.App.Dominio\obj\Debug\net6.0\ref\Tecnopress.App.Dominio.dll
